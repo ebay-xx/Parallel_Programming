@@ -62,15 +62,15 @@ int main ( int argc, char** argv )
     printf ("Failed to change to directory %s. Errno %d %s\n", argv[1], errno, strerror(errno) );
     exit (-1);
   }
-  //printf ("%s &&&&&&&&&&& %s", inpath, outpath);
+  
 
-  //CompressTree ( inpath, outpath );
+  /* Get a sorted list of all files */
   filecount = scandir ( inpath, &filenames, NULL, alphasort );
-  omp_set_num_threads ( 6 );
+  omp_set_num_threads ( 8 );
 
+  /* Create a thread for each directory in the root directory */
   #pragma omp parallel for shared(filecount)
   for ( i=2; i<filecount; i++ ) {
-  //   printf("%d     ", filenames[i]->d_name);
       char innext[PATH_MAX];    
       char outnext[PATH_MAX];   
       strcpy ( innext, inpath);
@@ -79,12 +79,9 @@ int main ( int argc, char** argv )
       strcpy ( outnext, outpath);
       strcat ( outnext, "/" );
       strcat ( outnext, filenames[i]->d_name );
-// printf("%s", innext);
-//      CompressTree (innext, outnext);
       printf ( "OMP Thread %d Directory/File %s\n", omp_get_thread_num(), filenames[i]->d_name );
       CompressTree (innext, outnext);
   }
-//  printf("\n");
 
 }
 

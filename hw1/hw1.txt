@@ -1,0 +1,1 @@
+http://hssl.cs.jhu.edu/wiki/doku.php?id=randal:teach:cs420:openmp.2012
