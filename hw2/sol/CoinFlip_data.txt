@@ -1,0 +1,71 @@
+Speedup
+
+Executing CoinFlip with 1 thread for 100000000 coin flips
+Elapsed time: 1293.0ms.
+Executing CoinFlip with 2 thread for 100000000 coin flips
+Elapsed time: 652.0ms.
+Executing CoinFlip with 3 thread for 100000000 coin flips
+Elapsed time: 441.0ms.
+Executing CoinFlip with 4 thread for 100000000 coin flips
+Elapsed time: 335.0ms.
+Executing CoinFlip with 5 thread for 100000000 coin flips
+Elapsed time: 271.0ms.
+Executing CoinFlip with 6 thread for 100000000 coin flips
+Elapsed time: 230.0ms.
+Executing CoinFlip with 7 thread for 100000000 coin flips
+Elapsed time: 211.0ms.
+Executing CoinFlip with 8 thread for 100000000 coin flips
+Elapsed time: 181.0ms.
+Executing CoinFlip with 9 thread for 100000000 coin flips
+Elapsed time: 687.0ms.
+Executing CoinFlip with 10 thread for 100000000 coin flips
+Elapsed time: 642.0ms.
+Executing CoinFlip with 11 thread for 100000000 coin flips
+Elapsed time: 591.0ms.
+Executing CoinFlip with 12 thread for 100000000 coin flips
+Elapsed time: 545.0ms.
+Executing CoinFlip with 13 thread for 100000000 coin flips
+Elapsed time: 473.0ms.
+Executing CoinFlip with 14 thread for 100000000 coin flips
+Elapsed time: 441.0ms.
+Executing CoinFlip with 15 thread for 100000000 coin flips
+Elapsed time: 402.0ms.
+Executing CoinFlip with 16 thread for 100000000 coin flips
+Elapsed time: 377.0ms.
+
+
+
+ScaleUp
+
+Executing CoinFlip with 1 thread for 100000000 coin flips
+Elapsed time: 1294.0ms.
+Executing CoinFlip with 2 thread for 200000000 coin flips
+Elapsed time: 1300.0ms.
+Executing CoinFlip with 3 thread for 300000000 coin flips
+Elapsed time: 1301.0ms.
+Executing CoinFlip with 4 thread for 400000000 coin flips
+Elapsed time: 1304.0ms.
+Executing CoinFlip with 5 thread for 500000000 coin flips
+Elapsed time: 1312.0ms.
+Executing CoinFlip with 6 thread for 600000000 coin flips
+Elapsed time: 4988.0ms.
+Executing CoinFlip with 7 thread for 700000000 coin flips
+Elapsed time: 6264.0ms.
+Executing CoinFlip with 8 thread for 800000000 coin flips
+Elapsed time: 6895.0ms.
+Executing CoinFlip with 9 thread for 900000000 coin flips
+Elapsed time: 7140.0ms.
+Executing CoinFlip with 10 thread for 1000000000 coin flips
+Elapsed time: 7270.0ms. 7775
+Executing CoinFlip with 11 thread for 1100000000 coin flips
+Elapsed time: 7326.0ms. 8170
+Executing CoinFlip with 12 thread for 1200000000 coin flips
+Elapsed time: 7360.0ms. 8425
+Executing CoinFlip with 13 thread for 1300000000 coin flips
+Elapsed time: 7495.0ms.
+Executing CoinFlip with 14 thread for 1400000000 coin flips
+Elapsed time: 7568.0ms.
+Executing CoinFlip with 15 thread for 1500000000 coin flips
+Elapsed time: 7801.0ms.
+Executing CoinFlip with 16 thread for 1600000000 coin flips
+Elapsed time: 8527.0ms.

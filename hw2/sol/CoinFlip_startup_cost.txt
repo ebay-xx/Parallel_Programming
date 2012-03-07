@@ -1,0 +1,336 @@
+[ec2-user@domU-12-31-39-18-35-49 CoinFlip]$ ./CoinFlip_startup_part1.sh
+Executing CoinFlip with 1 thread for 10000000 coin flips
+5000663 heads in 10000000 coin tosses.
+Elapsed time: 139.0ms.
+4999189 heads in 10000000 coin tosses.
+Elapsed time: 138.0ms.
+4998181 heads in 10000000 coin tosses.
+Elapsed time: 138.0ms.
+4997790 heads in 10000000 coin tosses.
+Elapsed time: 138.0ms.
+4998784 heads in 10000000 coin tosses.
+Elapsed time: 140.0ms.
+Executing CoinFlip with 1 thread for 20000000 coin flips
+9995061 heads in 20000000 coin tosses.
+Elapsed time: 266.0ms.
+10001169 heads in 20000000 coin tosses.
+Elapsed time: 266.0ms.
+9998477 heads in 20000000 coin tosses.
+Elapsed time: 266.0ms.
+10000763 heads in 20000000 coin tosses.
+Elapsed time: 266.0ms.
+10001787 heads in 20000000 coin tosses.
+Elapsed time: 268.0ms.
+Executing CoinFlip with 1 thread for 30000000 coin flips
+15000784 heads in 30000000 coin tosses.
+Elapsed time: 395.0ms.
+15004720 heads in 30000000 coin tosses.
+Elapsed time: 395.0ms.
+15001145 heads in 30000000 coin tosses.
+Elapsed time: 394.0ms.
+15002747 heads in 30000000 coin tosses.
+Elapsed time: 395.0ms.
+14999248 heads in 30000000 coin tosses.
+Elapsed time: 395.0ms.
+Executing CoinFlip with 1 thread for 40000000 coin flips
+19994751 heads in 40000000 coin tosses.
+Elapsed time: 523.0ms.
+20004114 heads in 40000000 coin tosses.
+Elapsed time: 524.0ms.
+19997728 heads in 40000000 coin tosses.
+Elapsed time: 523.0ms.
+19999121 heads in 40000000 coin tosses.
+Elapsed time: 523.0ms.
+19999299 heads in 40000000 coin tosses.
+Elapsed time: 523.0ms.
+Executing CoinFlip with 1 thread for 50000000 coin flips
+25000728 heads in 50000000 coin tosses.
+Elapsed time: 651.0ms.
+24997201 heads in 50000000 coin tosses.
+Elapsed time: 652.0ms.
+24999197 heads in 50000000 coin tosses.
+Elapsed time: 651.0ms.
+24998017 heads in 50000000 coin tosses.
+Elapsed time: 651.0ms.
+25006549 heads in 50000000 coin tosses.
+Elapsed time: 653.0ms.
+Executing CoinFlip with 1 thread for 100000000 coin flips
+50007702 heads in 100000000 coin tosses.
+Elapsed time: 1295.0ms.
+50000861 heads in 100000000 coin tosses.
+Elapsed time: 1293.0ms.
+50003312 heads in 100000000 coin tosses.
+Elapsed time: 1293.0ms.
+49999435 heads in 100000000 coin tosses.
+Elapsed time: 1293.0ms.
+49999685 heads in 100000000 coin tosses.
+Elapsed time: 1300.0ms.
+Executing CoinFlip with 1 thread for 200000000 coin flips
+99999122 heads in 200000000 coin tosses.
+Elapsed time: 2575.0ms.
+100000599 heads in 200000000 coin tosses.
+Elapsed time: 2577.0ms.
+100003935 heads in 200000000 coin tosses.
+Elapsed time: 2576.0ms.
+100011891 heads in 200000000 coin tosses.
+Elapsed time: 2577.0ms.
+100002926 heads in 200000000 coin tosses.
+Elapsed time: 2576.0ms.
+Executing CoinFlip with 1 thread for 300000000 coin flips
+149991524 heads in 300000000 coin tosses.
+Elapsed time: 3864.0ms.
+149997460 heads in 300000000 coin tosses.
+Elapsed time: 3860.0ms.
+150004424 heads in 300000000 coin tosses.
+Elapsed time: 3870.0ms.
+149997122 heads in 300000000 coin tosses.
+Elapsed time: 3859.0ms.
+150005527 heads in 300000000 coin tosses.
+Elapsed time: 3863.0ms.
+Executing CoinFlip with 1 thread for 400000000 coin flips
+199989372 heads in 400000000 coin tosses.
+Elapsed time: 5156.0ms.
+199994528 heads in 400000000 coin tosses.
+Elapsed time: 5145.0ms.
+199988283 heads in 400000000 coin tosses.
+Elapsed time: 5143.0ms.
+200003787 heads in 400000000 coin tosses.
+Elapsed time: 5146.0ms.
+200011666 heads in 400000000 coin tosses.
+Elapsed time: 5145.0ms.
+Executing CoinFlip with 1 thread for 500000000 coin flips
+249996373 heads in 500000000 coin tosses.
+Elapsed time: 6422.0ms.
+250002868 heads in 500000000 coin tosses.
+Elapsed time: 6424.0ms.
+250015858 heads in 500000000 coin tosses.
+Elapsed time: 6426.0ms.
+249993852 heads in 500000000 coin tosses.
+Elapsed time: 6431.0ms.
+250004305 heads in 500000000 coin tosses.
+Elapsed time: 6428.0ms.
+Executing CoinFlip with 2 thread for 10000000 coin flips
+4999240 heads in 10000000 coin tosses.
+Elapsed time: 78.0ms.
+4998460 heads in 10000000 coin tosses.
+Elapsed time: 78.0ms.
+5000496 heads in 10000000 coin tosses.
+Elapsed time: 77.0ms.
+4999587 heads in 10000000 coin tosses.
+Elapsed time: 74.0ms.
+4996964 heads in 10000000 coin tosses.
+Elapsed time: 77.0ms.
+Executing CoinFlip with 2 thread for 20000000 coin flips
+9998646 heads in 20000000 coin tosses.
+Elapsed time: 139.0ms.
+9993372 heads in 20000000 coin tosses.
+Elapsed time: 142.0ms.
+9998681 heads in 20000000 coin tosses.
+Elapsed time: 138.0ms.
+9996253 heads in 20000000 coin tosses.
+Elapsed time: 142.0ms.
+9996690 heads in 20000000 coin tosses.
+Elapsed time: 143.0ms.
+Executing CoinFlip with 2 thread for 30000000 coin flips
+15000096 heads in 30000000 coin tosses.
+Elapsed time: 206.0ms.
+14997044 heads in 30000000 coin tosses.
+Elapsed time: 204.0ms.
+14994314 heads in 30000000 coin tosses.
+Elapsed time: 208.0ms.
+14999401 heads in 30000000 coin tosses.
+Elapsed time: 207.0ms.
+15000782 heads in 30000000 coin tosses.
+Elapsed time: 202.0ms.
+Executing CoinFlip with 2 thread for 40000000 coin flips
+20003616 heads in 40000000 coin tosses.
+Elapsed time: 268.0ms.
+20000324 heads in 40000000 coin tosses.
+Elapsed time: 267.0ms.
+20000398 heads in 40000000 coin tosses.
+Elapsed time: 272.0ms.
+20002781 heads in 40000000 coin tosses.
+Elapsed time: 267.0ms.
+19995844 heads in 40000000 coin tosses.
+Elapsed time: 270.0ms.
+Executing CoinFlip with 2 thread for 50000000 coin flips
+24995754 heads in 50000000 coin tosses.
+Elapsed time: 334.0ms.
+24994523 heads in 50000000 coin tosses.
+Elapsed time: 335.0ms.
+24999657 heads in 50000000 coin tosses.
+Elapsed time: 335.0ms.
+25007494 heads in 50000000 coin tosses.
+Elapsed time: 331.0ms.
+24998100 heads in 50000000 coin tosses.
+Elapsed time: 331.0ms.
+Executing CoinFlip with 2 thread for 100000000 coin flips
+49999864 heads in 100000000 coin tosses.
+Elapsed time: 652.0ms.
+50000284 heads in 100000000 coin tosses.
+Elapsed time: 652.0ms.
+50007092 heads in 100000000 coin tosses.
+Elapsed time: 653.0ms.
+49994720 heads in 100000000 coin tosses.
+Elapsed time: 657.0ms.
+49997868 heads in 100000000 coin tosses.
+Elapsed time: 652.0ms.
+Executing CoinFlip with 2 thread for 200000000 coin flips
+100000589 heads in 200000000 coin tosses.
+Elapsed time: 1297.0ms.
+99999942 heads in 200000000 coin tosses.
+Elapsed time: 1302.0ms.
+100000292 heads in 200000000 coin tosses.
+Elapsed time: 1298.0ms.
+99997230 heads in 200000000 coin tosses.
+Elapsed time: 1299.0ms.
+99993058 heads in 200000000 coin tosses.
+Elapsed time: 1295.0ms.
+Executing CoinFlip with 2 thread for 300000000 coin flips
+150016926 heads in 300000000 coin tosses.
+Elapsed time: 1942.0ms.
+149996372 heads in 300000000 coin tosses.
+Elapsed time: 1937.0ms.
+150006556 heads in 300000000 coin tosses.
+Elapsed time: 1943.0ms.
+150005368 heads in 300000000 coin tosses.
+Elapsed time: 1939.0ms.
+150001975 heads in 300000000 coin tosses.
+Elapsed time: 1940.0ms.
+Executing CoinFlip with 2 thread for 400000000 coin flips
+200011492 heads in 400000000 coin tosses.
+Elapsed time: 2584.0ms.
+200004524 heads in 400000000 coin tosses.
+Elapsed time: 2587.0ms.
+200003249 heads in 400000000 coin tosses.
+Elapsed time: 2583.0ms.
+199991878 heads in 400000000 coin tosses.
+Elapsed time: 2580.0ms.
+199996456 heads in 400000000 coin tosses.
+Elapsed time: 2580.0ms.
+Executing CoinFlip with 2 thread for 500000000 coin flips
+249999944 heads in 500000000 coin tosses.
+Elapsed time: 3229.0ms.
+250036656 heads in 500000000 coin tosses.
+Elapsed time: 3225.0ms.
+250014928 heads in 500000000 coin tosses.
+Elapsed time: 3221.0ms.
+249990388 heads in 500000000 coin tosses.
+Elapsed time: 3226.0ms.
+250009710 heads in 500000000 coin tosses.
+Elapsed time: 3224.0ms.
+
+
+
+
+[ec2-user@ip-10-140-67-200 CoinFlip]$ ./CoinFlip_startup_part2.sh
+Executing CoinFlip with 3 thread for 10000000 coin flips
+4997025 heads in 10000000 coin tosses.
+Elapsed time: 55.0ms.
+4999376 heads in 10000000 coin tosses.
+Elapsed time: 53.0ms.
+4996674 heads in 10000000 coin tosses.
+Elapsed time: 54.0ms.
+5002437 heads in 10000000 coin tosses.
+Elapsed time: 55.0ms.
+4999194 heads in 10000000 coin tosses.
+Elapsed time: 55.0ms.
+Executing CoinFlip with 3 thread for 20000000 coin flips
+9996225 heads in 20000000 coin tosses.
+Elapsed time: 98.0ms.
+10001809 heads in 20000000 coin tosses.
+Elapsed time: 98.0ms.
+9999700 heads in 20000000 coin tosses.
+Elapsed time: 97.0ms.
+10000249 heads in 20000000 coin tosses.
+Elapsed time: 100.0ms.
+10006724 heads in 20000000 coin tosses.
+Elapsed time: 95.0ms.
+Executing CoinFlip with 3 thread for 30000000 coin flips
+14991093 heads in 30000000 coin tosses.
+Elapsed time: 141.0ms.
+14998905 heads in 30000000 coin tosses.
+Elapsed time: 141.0ms.
+15001584 heads in 30000000 coin tosses.
+Elapsed time: 138.0ms.
+15001222 heads in 30000000 coin tosses.
+Elapsed time: 141.0ms.
+14993724 heads in 30000000 coin tosses.
+Elapsed time: 142.0ms.
+Executing CoinFlip with 3 thread for 40000000 coin flips
+20002396 heads in 40000000 coin tosses.
+Elapsed time: 182.0ms.
+20001641 heads in 40000000 coin tosses.
+Elapsed time: 184.0ms.
+19998141 heads in 40000000 coin tosses.
+Elapsed time: 183.0ms.
+19996311 heads in 40000000 coin tosses.
+Elapsed time: 184.0ms.
+20008310 heads in 40000000 coin tosses.
+Elapsed time: 184.0ms.
+Executing CoinFlip with 3 thread for 50000000 coin flips
+25002759 heads in 50000000 coin tosses.
+Elapsed time: 227.0ms.
+24993776 heads in 50000000 coin tosses.
+Elapsed time: 226.0ms.
+25002592 heads in 50000000 coin tosses.
+Elapsed time: 228.0ms.
+24997827 heads in 50000000 coin tosses.
+Elapsed time: 227.0ms.
+25005657 heads in 50000000 coin tosses.
+Elapsed time: 226.0ms.
+Executing CoinFlip with 3 thread for 100000000 coin flips
+50009214 heads in 100000000 coin tosses.
+Elapsed time: 440.0ms.
+50015439 heads in 100000000 coin tosses.
+Elapsed time: 442.0ms.
+50007162 heads in 100000000 coin tosses.
+Elapsed time: 440.0ms.
+50000373 heads in 100000000 coin tosses.
+Elapsed time: 442.0ms.
+50003622 heads in 100000000 coin tosses.
+Elapsed time: 440.0ms.
+Executing CoinFlip with 3 thread for 200000000 coin flips
+99998158 heads in 200000000 coin tosses.
+Elapsed time: 870.0ms.
+99976143 heads in 200000000 coin tosses.
+Elapsed time: 869.0ms.
+100003677 heads in 200000000 coin tosses.
+Elapsed time: 869.0ms.
+99994346 heads in 200000000 coin tosses.
+Elapsed time: 868.0ms.
+100020603 heads in 200000000 coin tosses.
+Elapsed time: 872.0ms.
+Executing CoinFlip with 3 thread for 300000000 coin flips
+150002790 heads in 300000000 coin tosses.
+Elapsed time: 1298.0ms.
+150001989 heads in 300000000 coin tosses.
+Elapsed time: 1300.0ms.
+149996748 heads in 300000000 coin tosses.
+Elapsed time: 1297.0ms.
+150000384 heads in 300000000 coin tosses.
+Elapsed time: 1294.0ms.
+149994480 heads in 300000000 coin tosses.
+Elapsed time: 1297.0ms.
+Executing CoinFlip with 3 thread for 400000000 coin flips
+200017584 heads in 400000000 coin tosses.
+Elapsed time: 1728.0ms.
+199986972 heads in 400000000 coin tosses.
+Elapsed time: 1729.0ms.
+200000345 heads in 400000000 coin tosses.
+Elapsed time: 1728.0ms.
+199982591 heads in 400000000 coin tosses.
+Elapsed time: 1724.0ms.
+200010258 heads in 400000000 coin tosses.
+Elapsed time: 1723.0ms.
+Executing CoinFlip with 3 thread for 500000000 coin flips
+250003195 heads in 500000000 coin tosses.
+Elapsed time: 2152.0ms.
+250028817 heads in 500000000 coin tosses.
+Elapsed time: 2155.0ms.
+250016823 heads in 500000000 coin tosses.
+Elapsed time: 2165.0ms.
+249980994 heads in 500000000 coin tosses.
+Elapsed time: 2154.0ms.
+250003074 heads in 500000000 coin tosses.
+Elapsed time: 2160.0ms.
