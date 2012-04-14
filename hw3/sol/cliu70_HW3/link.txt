@@ -1,0 +1,86 @@
+INPUT URL
+
+s3n://tweets.simple/ 
+s3n://tweets.large/
+
+
+
+**********************************************
+
+
+
+JAVA VERSION
+
+
+
+Simple phase 1 output 
+s3n://changhw3/simple.output1/
+
+
+Simple phase 2 output
+s3n://changhw3/simple.output2/
+
+
+Large phase 1 output
+s3n://changhw3/large.output1/
+
+
+Large phase 2 output
+s3n://changhw3/large.output2/
+
+
+
+
+JAR LOCATION
+
+
+s3n://chang.jars/TweetPair.jar
+
+
+
+
+**********************************************
+
+
+
+STREAM VERSION
+
+
+Simple phase 1 output
+s3n://changhw3/output/stream/simple/
+
+
+Simple phase 2 output
+s3n://changhw3/output/stream/simple2/
+
+
+Large phase 1 output
+s3n://changhw3/output/stream/large/
+
+
+Large phase 2 output
+s3n://changhw3/output/stream/large2/
+
+
+
+MAPPER
+
+
+Phase 1 mapper
+s3n://changhw3/stream/M1.pl
+
+
+Phase 2 mapper
+s3n://changhw3/stream/M2.pl
+
+
+
+REDUCER
+
+
+Phase 1 reducer
+s3n://changhw3/stream/R1.pl
+
+
+Phase 2 reducer
+s3n://changhw3/stream/R2.pl

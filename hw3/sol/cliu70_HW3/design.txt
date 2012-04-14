@@ -1,0 +1,17 @@
+Phase 1:
+
+Mapper {input:tweets} --> {username, #tag}
+The mapper will read the input files, the first token in each line will be labeled as (username)key, then the mapper will continue search the tokens in the line, everytime it find a token starts with #, it will label it as a (#tag)value and output this value using the <username, #tag>.
+
+Reducer {username, #tag} --> {username, #alltags}
+The reducer will use the output of the mapper, it will connect all the values for the same key(username). The reducer will also eliminate any duplicate in the values, so the output will like <username, #tag1 #tag2 #tag3 ...>
+
+
+Phase 2:
+
+Mapper {username, #alltags} --> {<#tag1, #tag2>, username}
+The mapper will read the output from phase one which every line has the username as the key and value as all the #tags tweeted by that user. The mapper will then list all the possible pairs of #tags from the input value and set each #tag pair as the key, also it will set the username as value. The output will be the <#tag pairs, username> which has only 1 user name for each key(#tag pairs), something like <#tag1 #tag2, username1>, <#tag1 #tag2, username2>...
+
+
+Reducer {<#tag1, #tag2>, username} --> {<#tag1, #tag2>, allusername}
+The reducer will read the output from the above mapper, and simply connect all the values for each key(<#tag1, #tag2>). Reducer will then output all the connected <key, value> which has at least 2 users in the value.
